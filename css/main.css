@@ -41,5 +41,16 @@ p{
     
 }
 
+div.gallery{
+    margin:5px;
+    border:1px solid #cc;
+    float:left;
+    width:200px;
+}
+div.gallery:hover{
+    
+}
+    
+}
 
 
