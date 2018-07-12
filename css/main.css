@@ -72,6 +72,15 @@ div.certificate{
     height:200px;
     
 }
+div.ccard{
+    margin:30% 30% 30% 30%;
+    padding :10px10px 10px 10px;
+    width:300px;
+    height:200px;
+    border:1px solid darkblue;
+    border-radius:5px;
+    
+}
     
 
 
